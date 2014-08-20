@@ -1,23 +1,22 @@
-#Android generated
 bin
 gen
-
-#Eclipse
 .project
 .classpath
 .settings
-
-#IntelliJ IDEA
 .idea
 *.iml
 classes
-
-#Maven
 target
 release.properties
 pom.xml.*
-
-#Command line
 local.properties
 build.xml
 proguard-project.txt
+library/build/generated/source/buildConfig/release
+library/build/generated/source/r/release
+library/build/intermediates/bundles/release
+library/build/intermediates/incremental/aidl/release
+library/build/intermediates/incremental/mergeAssets/release
+library/build/intermediates/incremental/packageResources/release
+library/build/outputs
+library/build/tmp
